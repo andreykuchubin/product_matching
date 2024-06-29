@@ -21,3 +21,6 @@
 
 ## Результат работы
 При оптимальных гиперпараметрах: индекс - ivf_hnsw, количество кластеров - 50, метрика - mahalanobis, скейлер - RobustScaler() - получили точность предсказания 69,53 при времени работы 890,19.
+
+## Используемый стек
+Jupyter Notebook Python: pandas, numpy, faiss, matplotlib, seaborn, phik, sweetviz, time, sklearn, scipy.
